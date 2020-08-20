@@ -6,16 +6,16 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Opinionated Starter`,
+    title: `My Opinionated Starter`,
     titleTemplate: `%s · a starting point`,
     author: {
-      name: `Morten Rand-Hendriksen`,
+      name: `Lord Bic`,
       summary: `a ballroom dancer playing at being a developer.`,
     },
-    description: `An opinionated starter for Gatsby`,
+    description: `My opinionated starter for Gatsby`,
     url: `https://something.or.other`,
     logo: `static/logo.png`,
-    twitter: `mor10`,
+    twitter: `twit`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
